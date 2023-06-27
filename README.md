@@ -6,8 +6,6 @@
 
 ## Main components
 
-Recommended component installation sequence
-
 1) [Data ingestion](https://github.com/placerda/gpt-oyd-ingestion)
 
 2) [Orchestrator](https://github.com/placerda/gpt-oyd-orchestrator)
