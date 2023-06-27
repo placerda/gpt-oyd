@@ -6,8 +6,8 @@
 
 ## Main components
 
-1) [Data ingestion](https://github.com/placerda/gpt-oyd-ingestion)
+1) [Data ingestion](https://github.com/Azure/gpt-rag-ingestion)
 
-2) [Orchestrator](https://github.com/placerda/gpt-oyd-orchestrator)
+2) [Orchestrator](https://github.com/Azure/gpt-rag-orchestrator)
 
-3) [App UX](https://github.com/placerda/gpt-oyd-frontend)
+3) [App UX](https://github.com/Azure/gpt-rag-frontend)
